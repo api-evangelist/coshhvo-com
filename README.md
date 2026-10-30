@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-coshhvo-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://coshhvo.com/
+Coshhvo provides free worksheets that size and price a firm's risk assessment and COSHH programme from its own activities and substances, and a paid plan that keeps every assessment, sheet, near miss and incident as a record with a date, an author and a review date. 2 free worksheets for the person who writes the risk assessments: what the programme costs, when each one is due, and what the COSHH file has to hold.
+
+**Areas:** Company · Health · Safety · RiskAssessment · COSHH · Software
+
+## coshhvo-com on APIs.io
+
+Everything profiled for coshhvo-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/coshhvo-com/](https://apis.io/providers/coshhvo-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Coshhvo API](https://apis.io/apis/coshhvo-com/coshhvo-api/) — Free worksheets that size and price a firm's risk assessment and COSHH programme from its own activities and substances, plus a paid plan for record keeping.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Coshhvo Com Authentication](https://apis.io/security/coshhvo-com/coshhvo-com-authentication/)
+- [Coshhvo Com Domain Security](https://apis.io/security/coshhvo-com/coshhvo-com-domain-security/)
+- [Coshhvo Com Vulnerability Disclosure](https://apis.io/security/coshhvo-com/coshhvo-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Coshhvo Com Scopes](https://apis.io/scopes/coshhvo-com/coshhvo-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Coshhvo Com Plans Pricing](https://apis.io/plans/coshhvo-com/coshhvo-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Coshhvo Com Rate Limits](https://apis.io/rate-limits/coshhvo-com/coshhvo-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://coshhvo.com/)
+- [API reference](https://coshhvo.com/openapi.json)
+- [Pricing](https://coshhvo.com/pricing/)
+- [Support](https://coshhvo.com/support/)
+- [Security](https://coshhvo.com/terms)
+- [Terms of service](https://coshhvo.com/terms/)
+- [Privacy policy](https://coshhvo.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 31.6** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 30.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 50.5 |
+
+**Agent readiness 11.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 37.5** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/coshhvo-com/](https://apis.io/providers/coshhvo-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for coshhvo-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/coshhvo-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
